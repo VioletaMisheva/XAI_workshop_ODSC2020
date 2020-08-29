@@ -1,0 +1,12 @@
+# Requirements: 
+
+sklearn = 0.22.1
+pandas = 1.0.4
+numpy = 1.18.1
+seaborn = 0.10.1
+matplotlib = 3.3.0
+shap = 0.34.0
+
+pycebox = 0.0.1
+rulefit = 0.3.1
+lime = 0.2.0.1
